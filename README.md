@@ -46,6 +46,8 @@ https://github.com/user-attachments/assets/d1ae15af-7767-4490-81a2-b00b03074c22
 ### 1. Clone the Repository
 
 git clone https://github.com/abdullaabdullazade/QR-Code-Scanner
+
+
 cd QR-Code-Scanner
 
 ### 2. Install Dependencies
