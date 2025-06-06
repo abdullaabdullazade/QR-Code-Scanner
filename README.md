@@ -33,6 +33,10 @@ A beautifully designed QR Code Scanner app built using **React Native** and **Ex
 
 ## 📸 Screenshots
 
+
+https://github.com/user-attachments/assets/d1ae15af-7767-4490-81a2-b00b03074c22
+
+
 > Coming soon – You can preview the original UI on [Figma](https://www.figma.com/design/4nDuhUHAwpyuOsdW7TwX1L/QR-Code-Scanner-App--Community-?node-id=4-265&m=draw)
 
 ---
