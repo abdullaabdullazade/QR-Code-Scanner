@@ -1,4 +1,4 @@
-# 📱 QR Code Scanner App ![App Icon](./assets\images\icon.png)
+# 📱 QR Code Scanner App ![App Icon](.\assets\images\icon.png)
 
 A beautifully designed QR Code Scanner app built using **React Native** and **Expo**, inspired by the following [Figma Design](https://www.figma.com/design/4nDuhUHAwpyuOsdW7TwX1L/QR-Code-Scanner-App--Community-?node-id=4-265&m=draw).
 
@@ -39,16 +39,12 @@ A beautifully designed QR Code Scanner app built using **React Native** and **Ex
 ```bash
 git clone https://github.com/yourusername/qr-code-scanner-app.git
 cd qr-code-scanner-app
-```
-
-````
 
 ### 2. Install Dependencies
 
 ```bash
 npm install
 
-```
 
 ### 3. Start the App
 
