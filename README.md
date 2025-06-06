@@ -1,8 +1,10 @@
-# 📱 QR Code Scanner App ![App Icon]
+# 📱 QR Code Scanner App!
 
 <p align="center">
   <img src="./assets/images/icon.png" alt="icon" width="300" height="300" style="border-radius: 50%;" />
 </p>
+
+
 A beautifully designed QR Code Scanner app built using **React Native** and **Expo**, inspired by the following [Figma Design](https://www.figma.com/design/4nDuhUHAwpyuOsdW7TwX1L/QR-Code-Scanner-App--Community-?node-id=4-265&m=draw).
 
 ---
