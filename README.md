@@ -28,7 +28,7 @@ A beautifully designed QR Code Scanner app built using **React Native** and **Ex
 - `AsyncStorage` for local data persistence
 - `expo-router` for navigation
 - `Google Fonts` via `expo-font`
-
+- `Backend url` :[Backend](https://github.com/abdullaabdullazade/backendqrcodescanner)
 ---
 
 ## 📸 Screenshots
